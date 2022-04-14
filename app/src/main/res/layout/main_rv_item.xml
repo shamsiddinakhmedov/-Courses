@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/course_name_tv"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:maxLines="1"
+        android:padding="8dp"
+        android:text="Android Development"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toStartOf="@+id/all_modules_tv"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/all_modules_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="8dp"
+        android:paddingEnd="16dp"
+        android:text="Barchasi"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        app:drawableRightCompat="@drawable/ic_baseline_chevron_right_24"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="RtlSymmetry" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/module_rv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/course_name_tv"
+        tools:ignore="RtlSymmetry"
+        tools:listitem="@layout/module_item" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
