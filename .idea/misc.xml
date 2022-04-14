@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/drawable/bg_gradient.xml" value="0.18611111111111112" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/drawable/custom_progress.xml" value="0.26666666666666666" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/drawable/gradient_item_shape.xml" value="0.26256410256410256" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/drawable/ic_back_arrow.xml" value="0.2638888888888889" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/drawable/ic_baseline_chevron_right_24.xml" value="0.26256410256410256" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/drawable/ic_scan_border.xml" value="0.2638888888888889" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/drawable/image_item_shape.xml" value="0.26615384615384613" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/drawable/lesson_header.xml" value="0.2212962962962963" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/drawable/settings_gradient_shape.xml" value="0.26615384615384613" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/drawable/splash_background.xml" value="0.18611111111111112" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/layout-v28/course_info_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/layout-v28/lessons_list_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/layout-v28/module_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/layout/activity_add_lesson.xml" value="0.25416666666666665" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/layout/activity_add_module.xml" value="0.25416666666666665" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/layout/activity_begin.xml" value="0.25052083333333336" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/layout/activity_course_info.xml" value="0.25416666666666665" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/layout/activity_edit.xml" value="0.25416666666666665" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/layout/activity_edit_lesson.xml" value="0.264" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/layout/activity_edit_module.xml" value="0.25416666666666665" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/layout/activity_lesson_info.xml" value="0.2" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/layout/activity_main2.xml" value="0.264" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/layout/activity_module_info.xml" value="0.25416666666666665" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/layout/activity_settings.xml" value="0.2" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/layout/activity_splash.xml" value="0.264" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/layout/content_module_info.xml" value="0.25052083333333336" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/layout/course_info_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/layout/course_item.xml" value="0.2" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/layout/fragment_first.xml" value="0.25052083333333336" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/layout/fragment_second.xml" value="0.25052083333333336" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/layout/lesson_item.xml" value="0.6" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/layout/lessons_list_item.xml" value="0.264" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/layout/main_rv_item.xml" value="0.264" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/layout/module_item.xml" value="0.6" />
+        <entry key="..\:/android_folder/pdp/6-modul/8-dars/PDP Online/app/src/main/res/layout/module_list_item.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
